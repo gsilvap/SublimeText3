@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Google Spell Check",
+		"Hayaku - tools for writing CSS faster",
+		"Hopscotch Color Scheme",
+		"Icon Fonts",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"Promela_Spin",
+		"QuickThemes",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"Sublimerge Pro",
+		"Theme - Cobalt2",
+		"Theme - Cyanide",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
+	]
+}

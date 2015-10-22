@@ -1,0 +1,53 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+			{
+				"caption": "Sumatra",
+				"id": "side-bar-files-open-with-sumatra",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "C:\\Program Files (x86)\\SumatraPDF\\SumatraPDF.exe",
+									"extensions":".pdf" //any file with extension
+						},
+				"open_automatically" : true // will close the view/tab and launch the application
+			},
+
+			{"caption":"-"},
+
+			{
+				"caption": "Power Point",
+				"id": "side-bar-files-open-with-power-point",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									// "application": "C:\\Program Files (x86)\\Microsoft Office\\Office15\\POWERPNT.EXE",
+									"application": "C:\\Program Files\\Microsoft Office 15\\root\\office15\\POWERPNT.EXE",
+									"extensions":".pptx" //any file with extension
+						},
+				"open_automatically" : true // will close the view/tab and launch the application
+			},
+
+			{
+				"caption": "Excel",
+				"id": "side-bar-files-open-with-excel",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									// "application": "C:\\Program Files (x86)\\Microsoft Office\\Office15\\EXCEL.EXE",
+									"application": "C:\\Program Files\\Microsoft Office 15\\root\\office15\\EXCEL.EXE",
+									"extensions":".xlsx|.xls" //any file with extension
+						},
+				"open_automatically" : true // will close the view/tab and launch the application
+			},
+
+			{"caption":"-"}
+
+
+		]
+	}
+]

@@ -1,0 +1,362 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.aux",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.fdb_latexmk",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "G:\\Dropbox\\Materiais\\Estagio\\stage"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\sublimeText3"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\roamingSublimeText3"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.aux",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.fdb_latexmk",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\OneDrive\\mei\\stage"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.aux",
+				"*.zip",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\OneDrive\\mei\\qcs"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\OneDrive\\mei\\internship\\latex"
+		},
+		{
+			"path": "D:\\onedrive\\mei\\internship\\code\\eclipse\\Parser\\src\\injector"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.fdb_latexmk",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\OneDrive\\mei\\internship"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.dmp",
+				"*.dvi",
+				"*.fls",
+				"glossary.*",
+				"*.blg",
+				"*.aux",
+				"*.acn",
+				"*.glo",
+				"*.dat",
+				"*.gls",
+				"*.glg",
+				"*.glsdefs",
+				"*.idx",
+				"*.ist",
+				"*.maf",
+				"*.mtc",
+				"*.mtc0",
+				"*.xdy",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.fdb_latexmk",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\onedrive\\mei\\internship"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.aux",
+				"*.zip",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\Dropbox\\Materiais\\QCS"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"*.html",
+				"~$*.xlsx",
+				"*.aux",
+				"*.dmp",
+				"*.dvi",
+				"*.blg",
+				"*.lof",
+				"*.lot",
+				"*.bbl",
+				"*.synctex.gz",
+				"*.toc",
+				"*.out",
+				"*.pyc",
+				"*.pyo",
+				"*.exe",
+				"*.dll",
+				"*.obj",
+				"*.o",
+				"*.a",
+				"*.lib",
+				"*.so",
+				"*.dylib",
+				"*.ncb",
+				"*.sdf",
+				"*.suo",
+				"*.pdb",
+				"*.idb",
+				".DS_Store",
+				"*.class",
+				"*.psd",
+				"*.db",
+				"*.fdb_latexmk",
+				"*.sublime-workspace"
+			],
+			"follow_symlinks": true,
+			"path": "D:\\Dropbox\\Materiais\\Estagio\\stage"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Dropbox\\Materiais\\AS\\TP1"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Dropbox\\Materiais\\AS\\Archive"
+		},
+		{
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\test"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\WEBServer"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\TCPServer"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\TCPClient"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\RMIServer"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\2\\TCPServer"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\SD\\2\\TCPClient"
+		},
+		{
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\QCS2015-master"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\GonçaloSilva\\Desktop\\Meus Softwares"
+		}
+	]
+}
