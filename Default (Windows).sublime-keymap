@@ -35,7 +35,7 @@
         }
 
         // trailing space
-        ,{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
+        ,{ "keys": ["ctrl+shift+space"], "command": "delete_trailing_spaces" }
         // ,{ "keys": ["ctrl+shift+d"], "command": "toggle_trailing_spaces" }
 
         // markdown preview
