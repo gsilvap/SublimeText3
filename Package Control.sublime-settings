@@ -7,6 +7,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AlignTab",
 		"All Autocomplete",
 		"Auto Semi-Colon",
 		"BracketHighlighter",
