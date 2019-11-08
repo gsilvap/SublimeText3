@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Markdown Preview"
 	],
 	"installed_packages":
 	[
@@ -18,7 +19,6 @@
 		"Hopscotch Color Scheme",
 		"Icon Fonts",
 		"LaTeXTools",
-		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"PlainTasks",
@@ -33,6 +33,7 @@
 		"Theme - Flatland",
 		"Theme - itg.flat",
 		"Tomorrow Color Schemes",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"MarkdownPreview"
 	]
 }

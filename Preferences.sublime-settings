@@ -5,7 +5,7 @@
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"dictionary": "Packages/Dictionaries-master/Portuguese (European).dic",
-	"font_size": 8,
+	"font_size": 9,
 	"highlight_line": true,
 	"icon_file_type_enable": true,
 	"ignored_packages":
@@ -13,6 +13,7 @@
 		"Emmet",
 		"GitGutter",
 		"Markdown",
+		"Markdown Preview",
 		"Sublimerge Pro",
 		"Vintage"
 	],
@@ -23,6 +24,6 @@
 	],
 	"show_tab_close_buttons": false,
 	"tabs_medium": true,
-	"theme": "Cyanide.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
