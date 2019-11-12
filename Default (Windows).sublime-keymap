@@ -44,8 +44,17 @@
 
         ,{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}}
 
+        ,{ "keys": ["ctrl+alt+i"], "command": "increment_selection" }
+
+
+        // IntelliJ Shortcuts
         ,{ "keys": ["ctrl+tab"], "command": "next_view" }
         ,{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
-
-        ,{ "keys": ["ctrl+alt+i"], "command": "increment_selection" }
+        ,{ "keys": ["ctrl+y"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
+        // { "keys": ["super+d"], "command": "duplicate_line" }, -- Default is super+shift+D
+        ,{ "keys": ["super+`"], "command": "toggle_side_bar" }
+        ,{ "keys": ["shift+alt+up"], "command": "swap_line_up" }
+        ,{ "keys": ["shift+alt+down"], "command": "swap_line_down" }
+        ,{ "keys": ["ctrl+tab"], "command": "next_view" }
+        ,{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
