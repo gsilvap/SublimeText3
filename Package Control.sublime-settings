@@ -18,8 +18,10 @@
 		"Hayaku - tools for writing CSS faster",
 		"Hopscotch Color Scheme",
 		"Icon Fonts",
+		"JSON Reindent",
 		"LaTeXTools",
 		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"PlainTasks",
 		"Promela_Spin",
@@ -33,7 +35,6 @@
 		"Theme - Flatland",
 		"Theme - itg.flat",
 		"Tomorrow Color Schemes",
-		"TrailingSpaces",
-		"MarkdownPreview"
+		"TrailingSpaces"
 	]
 }
