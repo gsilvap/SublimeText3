@@ -5,6 +5,7 @@
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
 	"dictionary": "Packages/Dictionaries-master/Portuguese (European).dic",
+	"draw_white_space": "all",
 	"font_size": 8,
 	"highlight_line": true,
 	"icon_file_type_enable": true,
@@ -23,11 +24,10 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"show_encoding": true,
 	"show_tab_close_buttons": false,
 	"tabs_medium": true,
 	"theme": "Flatland Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false,
-	"draw_white_space": "all",
-	"show_encoding": true
+	"update_check": false
 }
