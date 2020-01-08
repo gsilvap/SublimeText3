@@ -57,4 +57,7 @@
         ,{ "keys": ["shift+alt+down"], "command": "swap_line_down" }
         ,{ "keys": ["ctrl+tab"], "command": "next_view" }
         ,{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+
+        // Quick switch project
+        ,{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
